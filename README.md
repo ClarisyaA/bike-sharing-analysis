@@ -101,8 +101,8 @@ The dashboard will open automatically in your browser at: `http://localhost:8501
 1. **Weather is the dominant factor**: Rentals drop by **63%** in rainy conditions compared to clear weather.
 2. **Temperature has strong positive correlation** (r = 0.63) with daily rental volume.
 3. **Working day bimodal pattern**: Peak at 08:00 (morning commute) and 17:00 (evening commute).
-4. **Holiday unimodal pattern**: Rentals are distributed around 10:00–15:00 (recreational use).
-5. **Very High cluster (6K+)** is concentrated in Fall–Summer with clear weather and temperatures ~23°C.
+4. **Holiday unimodal pattern**: Rentals are distributed around 11:00–14:00 (recreational use).
+5. **Very High cluster (6K+)** is concentrated in Fall–Summer with clear weather and temperatures ~25.6°C.
 
 ---
 
